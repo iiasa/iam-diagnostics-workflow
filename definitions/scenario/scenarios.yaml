@@ -1,33 +1,39 @@
 # Mandatory scenarios
 - NPi:
-    description: 
-- C400-lin:
-    description:
-- C200-lin:
-    description:
-- C160-gr5:
-    description:
-- C80-gr5:
-    description:
-- C0to400-lin:
-    description:
+    description: National policies implemented, based on SSP2 (or model default)
+- LinearPrice-400:
+    description: Linearly increasing carbon price starting in 2030 with $35, yielding $400 in 2050
+- LinearPrice-200:
+    description: Linearly increasing carbon price starting in 2030 with $17.5, yielding $200 in 2050
+- Exponential-5p-160:
+    description: Exponentially increasing carbon price, starting in 2030 with $160, with a 5% growth rate
+- Exponential-5p-80:
+    description: Exponentially increasing carbon price, starting in 2030 with $80, with a 5% growth rate
+- LinearPrice-400-shock:
+    description: Same as LinearPrice-400, but only starting nonzero carbon price in 2050 (shock from $0 to $400)
 
 # Lim variants
-- C400-lin-LimBio:
-    description:
-- C400-lin-LimCCS:
-    description:
-- C400-lin-LimCDR:
-    description:
+- LinearPrice-400-LimBio:
+    description: As in LinearPrice-400, but with limits on bioenergy supply
+- LinearPrice-400-LimCCS:
+    description: As in LinearPrice-400, but with limits on CCS
+- LinearPrice-400-LimCDR:
+    description: As in LinearPrice-400, but with limits on CDR
 
 # Other optional ones
-- C400-lin-Low:
-    description:
+- LinearPrice-400-allpolicies:
+    description: Carbon pricing as in LinearPrice-400, but now adding all options to yield as low emission as possible
 
 # SSP variants
-- C400-lin-SSP1:
-    description:
-- C400-lin-SSP3:
-    description:
-- C400-lin-SSP5:
-    description:
+- NPi-SSP1:
+    description: National policies implemented, based on SSP1 (rather than SSP2 or model default)
+- NPi-SSP3:
+    description: National policies implemented, based on SSP3 (rather than SSP2 or model default)
+- NPi-SSP5:
+    description: National policies implemented, based on SSP5 (rather than SSP2 or model default)
+- LinearPrice-400-SSP1:
+    description: Same as LinearPrice-400, but with SSP1 assumptions
+- LinearPrice-400-SSP3:
+    description: Same as LinearPrice-400, but with SSP3 assumptions
+- LinearPrice-400-SSP5:
+    description: Same as LinearPrice-400, but with SSP5 assumptions
