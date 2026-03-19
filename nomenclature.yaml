@@ -13,6 +13,7 @@ definitions:
         - hierarchy: R9
         - hierarchy: R10
         - hierarchy: IMAGE v3.4
+      country: true
   mappings:
     repository:
       name: common-definitions
