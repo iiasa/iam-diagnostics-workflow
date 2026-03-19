@@ -18,4 +18,4 @@ definitions:
     repository:
       name: common-definitions
       include:
-        - IMAGE v3.4
+        - IMAGE 3.4
