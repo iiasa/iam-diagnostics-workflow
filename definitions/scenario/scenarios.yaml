@@ -1,0 +1,33 @@
+# Mandatory scenarios
+- NPI:
+    description: 
+- C400-lin:
+    description:
+- c200-lin:
+    description:
+- C160-gr5:
+    description:
+- C80-gr5:
+    description:
+- C0to400-lin:
+    description:
+
+# Lim variants
+- C400-lin-LimBio:
+    description:
+- C400-lin-LimCCS:
+    description:
+- C400-lin-LimCDR:
+    description:
+
+# Other optional ones
+- C400-lin-Low:
+    description:
+
+# SSP variants
+- C400-lin-SSP1:
+    description:
+- C400-lin-SSP3:
+    description:
+- C400-lin-SSP5:
+    description:
