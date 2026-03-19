@@ -1,7 +1,5 @@
 # IAM Diagnostics Workflow
 
-This code collects information on models, scenarios and variables that will be used in the IAMC diagnostic exercise. Many teams are probably already registered in the common-definitions repository, and will therefore be using this repository limitedly. If you have not participated in previous IAM MIPs before, read the guidance below to add your model registration, but also important regional mappings that greatly help the analysis. Feel free to reach out to Mark Dekker for general questions. For more information the exercise, see the [protocol](https://doi.org/10.5281/zenodo.18757529) for the scenarios, or the [announcement](https://www.iamconsortium.org/iamc-announcements/invitation-iam-diagnostic-exercise/) on the IAMC website.
-
 Copyright 2026 IIASA
 
 [![Code style: ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/charliermarsh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
@@ -20,6 +18,20 @@ This repository contains the workflow and configuration for the IAM Diagnostics.
 > This workflow repository uses definitions and region mappings from the
 > [common-definitions](https://github.com/IAMconsortium/common-definitions) repository.  
 > Check out [nomenclature.yaml](nomenclature.yaml) for the specific configuration.
+
+## User guidance
+
+This code collects information on models, scenarios and variables that will be used
+in the IAMC diagnostic exercise. Many teams are probably already registered in the
+common-definitions repository, and will therefore be using this repository limitedly.
+If you have not participated in previous IAM MIPs before, read the guidance below
+to add your model registration, but also important regional mappings that greatly
+help the analysis. Feel free to reach out to Mark Dekker for general questions.
+For more information the exercise, see the
+[protocol](https://doi.org/10.5281/zenodo.18757529) for the scenarios, or the
+[announcement]
+(https://www.iamconsortium.org/iamc-announcements/invitation-iam-diagnostic-exercise/)
+on the IAMC website.
 
 ## Project nomenclature
 
