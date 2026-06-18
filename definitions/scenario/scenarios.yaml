@@ -1,6 +1,12 @@
 # Mandatory scenarios
-- CP:
-    description: The default current climate policy reference scenario(CP). Only implemented policies should be included, not targets that are not supported by policies (e.g. NDC). Climate policies can be explicitly modelled (preferably) or represented by a carbon price. If neither option is available, model teams can use their default No-Policybaseline. If a scenario deviates from CP, a description of the scenario assumptions should be provided.
+- Current-Policies:
+    description: The default current climate policy reference scenario. Only
+                implemented policies should be included, not targets that are
+                not supported by policies (e.g. NDC). Climate policies can be
+                explicitly modelled (preferably) or represented by a carbon price.
+                If neither option is available, model teams can use their
+                default No-Policybaseline. If a scenario deviates from CP,
+                a description of the scenario assumptions should be provided.
 - C400-lin:
     description: Linearly increasing carbon price starting in 2030 with $35, yielding $400 in 2050
 - C160-gr5:
