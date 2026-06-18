@@ -1,4 +1,5 @@
-model: UNICON-IAM V2
+model:
+- UNICON-IAM V2
 
 native_regions:
   - KOR: UNICON-IAM V2|Republic of Korea

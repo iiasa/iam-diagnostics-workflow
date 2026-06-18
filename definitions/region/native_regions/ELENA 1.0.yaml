@@ -1,6 +1,3 @@
 - ELENA 1.0:
-  - Ecuador:
-      description: >
-        National region covering all of Ecuador, including the Coast, Andes,
-        Amazon, and Galápagos sub-regions.
-      iso3_codes: ECU
+  - ELENA 1.0|Ecuador:
+      countries: Ecuador

@@ -1,6 +1,6 @@
 - UNICON-IAM V2:
     - UNICON-IAM V2|Republic of Korea:
-        countries: Korea
+        countries: [South Korea, North Korea]
     - UNICON-IAM V2|China:
         countries: China
     - UNICON-IAM V2|Japan:
@@ -8,22 +8,24 @@
     - UNICON-IAM V2|India:
         countries: India
     - UNICON-IAM V2|ASEAN:
-        countries: ASEAN
+        countries: [Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Timor-Leste, Vietnam]
     - UNICON-IAM V2|Oceania:
-        countries: Oceania
+        countries: Oceania # Unspecified, TBD
     - UNICON-IAM V2|United States of America:
-        countries: United States of America
+        countries: United States
     - UNICON-IAM V2|Canada:
         countries: Canada
     - UNICON-IAM V2|European Union & United Kingdom:
-        countries: European Union & United Kingdom
+        countries: [Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France,
+            Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal,
+            Romania, Slovakia, Slovenia, Spain, Sweden, United Kingdom]
     - UNICON-IAM V2|Russia and Neighboring Transition Countries:
-        countries: Russia and Neighboring Transition Countries
+        countries: Russia and Neighboring Transition Countries # Unspecified, TBD
     - UNICON-IAM V2|Latin America:
-        countries: Latin America
+        countries: Latin America # Unspecified, TBD
     - UNICON-IAM V2|Middle East and North Africa:
-        countries: Middle East and North Africa
+        countries: Middle East and North Africa # Unspecified, TBD
     - UNICON-IAM V2|Sub-Saharan Africa:
-        countries: Sub-Saharan Africa
+        countries: Sub-Saharan Africa # Unspecified, TBD
     - UNICON-IAM V2|Rest of the World:
-        countries: Rest of the World
+        countries: Rest of the World # Unspecified, TBD
