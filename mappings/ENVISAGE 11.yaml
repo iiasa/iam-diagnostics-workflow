@@ -1,0 +1,222 @@
+model:
+  - Envisage V11
+
+native_regions:
+  - ARG: Envisage V11|Argentina
+  - AUS: Envisage V11|Australia
+  - BRA: Envisage V11|Brazil
+  - CAN: Envisage V11|Canada
+  - CHN: Envisage V11|China
+  - DEU: Envisage V11|Germany
+  - FRA: Envisage V11|France
+  - ITA: Envisage V11|Italy
+  - IND: Envisage V11|India
+  - IDN: Envisage V11|Indonesia
+  - JPN: Envisage V11|Japan
+  - MEX: Envisage V11|Mexico
+  - RUS: Envisage V11|Russian Federation
+  - SAU: Envisage V11|Saudi Arabia
+  - ZAF: Envisage V11|South Africa
+  - KOR: Envisage V11|South Korea
+  - TUR: Envisage V11|Türkiye
+  - GBR: Envisage V11|United Kingdom
+  - USA: Envisage V11|United States
+  - XEA: Envisage V11|Rest of East Asia and Pacific
+  - XSA: Envisage V11|Rest of South Asia
+  - XEC: Envisage V11|Rest of Europe and Central Asia
+  - XMN: Envisage V11|Rest of Middle East and North Africa
+  - XSS: Envisage V11|Rest of Sub-Saharan Africa
+  - XLC: Envisage V11|Rest of Latin America and Caribbean
+  - XEU: Envisage V11|Rest of the European Union
+  - XHY: Envisage V11|Rest of high-income countries
+
+common_regions:
+  - World:
+      - ARG
+      - AUS
+      - BRA
+      - CAN
+      - CHN
+      - DEU
+      - FRA
+      - ITA
+      - IND
+      - IDN
+      - JPN
+      - MEX
+      - RUS
+      - SAU
+      - ZAF
+      - KOR
+      - TUR
+      - GBR
+      - USA
+      - XEA
+      - XSA
+      - XEC
+      - XMN
+      - XSS
+      - XLC
+      - XEU
+      - XHY
+
+  # R5 regions
+  - OECD & EU (R5):
+      - AUS
+      - CAN
+      - DEU
+      - FRA
+      - ITA
+      - JPN
+      - TUR
+      - GBR
+      - USA
+      - XEU
+      - XHY
+  - Reforming Economies (R5):
+      - RUS
+      - XEC
+  - Asia (R5):
+      - CHN
+      - IND
+      - IDN
+      - KOR
+      - XSA
+      - XEA
+  - Middle East & Africa (R5):
+      - SAU
+      - XMN
+      - ZAF
+      - XSS
+  - Latin America (R5):
+      - ARG
+      - BRA
+      - MEX
+      - XLC
+
+  # R9 regions
+  - European Union (R9):
+      - DEU
+      - FRA
+      - ITA
+      - XEU
+  - USA (R9):
+      - USA
+  - Other OECD (R9):
+      - CAN
+      - JPN
+      - AUS
+      - TUR
+      - XHY
+      - GBR
+  - China (R9):
+      - CHN
+  - India (R9):
+      - IND
+  - Other Asia (R9):
+      - IDN
+      - KOR
+      - XSA
+      - XEA
+  - Reforming Economies (R9):
+      - RUS
+      - XEC
+  - Latin America (R9):
+      - ARG
+      - BRA
+      - MEX
+      - XLC
+  - Middle East & Africa (R9):
+      - SAU
+      - MNA
+      - ZAF
+      - XSS
+
+  # R10 regions
+  - Africa (R10):
+      - ZAF
+      - XSS
+  - China+ (R10):
+      - CHN
+      - KOR
+  - Europe (R10):
+      - DEU
+      - FRA
+      - ITA
+      - GBR
+      - TUR
+      - XEU
+  - India+ (R10):
+      - IND
+      - XSA
+  - Latin America (R10):
+      - ARG
+      - BRA
+      - MEX
+      - XLC
+  - Middle East (R10):
+      - SAU
+      - XMN
+  - North America (R10):
+      - CAN
+      - USA
+  - Pacific OECD (R10):
+      - JPN
+      - AUS
+  - Reforming Economies (R10):
+      - RUS
+      - XEC
+  - Rest of Asia (R10):
+      - IDN
+      - XEA
+      - XHY
+
+  # mapping for G20 members
+  - Argentina:
+      - ARG
+  - Australia:
+      - AUS
+  - Brazil:
+      - BRA
+  - Canada:
+      - CAN
+  - China:
+      - CHN
+  - Germany:
+      - DEU
+  - France:
+      - FRA
+  - Italy:
+      - ITA
+  - India:
+      - IND
+  - Indonesia:
+      - IDN
+  - Japan:
+      - JPN
+  - Mexico:
+      - MEX
+  - Russian Federation:
+      - RUS
+  - Saudi Arabia:
+      - SAU
+  - South Africa:
+      - ZAF
+  - Korea, Republic of:
+      - KOR
+  - Japan:
+      - JPN
+  - Türkiye:
+      - TUR
+  - United Kingdom:
+      - GBR
+  - United States:
+      - USA
+  - European Union:
+      - DEU
+      - FRA
+      - ITA
+      - XEU 
+  - African Union:
+      - ZAF
+      - XSS

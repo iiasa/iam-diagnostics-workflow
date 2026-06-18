@@ -1,0 +1,61 @@
+- WEGDYN 2.0:
+  - WEGDYN 2.0|Germany:
+      countries: Germany
+  - WEGDYN 2.0|Austria:
+      countries: Austria
+  - WEGDYN 2.0|Italy:
+      countries: Italy
+  - WEGDYN 2.0|United Kingdom:
+      countries: United Kingdom
+  - WEGDYN 2.0|France:
+      countries: France, Guadeloupe, Martinique, Réunion
+  - WEGDYN 2.0|Belgium and Luxembourg:
+      countries: Belgium, Luxembourg
+  - WEGDYN 2.0|Netherlands:
+      countries: Netherlands
+  - WEGDYN 2.0|Bulgaria:
+      countries: Bulgaria
+  - WEGDYN 2.0|Croatia:
+      countries: Croatia
+  - WEGDYN 2.0|Czech Republic:
+      countries: Czech Republic
+  - WEGDYN 2.0|Denmark:
+      countries: Denmark
+  - WEGDYN 2.0|Finland:
+      countries: Åland Islands, Finland
+  - WEGDYN 2.0|Greece:
+      countries: Greece
+  - WEGDYN 2.0|Hungary:
+      countries: Hungary
+  - WEGDYN 2.0|Ireland:
+      countries: Ireland
+  - WEGDYN 2.0|Poland:
+      countries: Poland
+  - WEGDYN 2.0|Portugal:
+      countries: Portugal
+  - WEGDYN 2.0|Romania:
+      countries: Romania
+  - WEGDYN 2.0|Slovakia:
+      countries: Slovakia
+  - WEGDYN 2.0|Slovenia:
+      countries: Slovenia
+  - WEGDYN 2.0|Spain:
+      countries: Spain
+  - WEGDYN 2.0|Sweden:
+      countries: Sweden
+  - WEGDYN 2.0|Switzerland:
+      countries: Switzerland
+  - WEGDYN 2.0|Norway:
+      countries: Norway, Svalbard and Jan Mayen Islands
+  - WEGDYN 2.0|Baltic States:
+      countries: Estonia, Latvia, Lithuania
+  - WEGDYN 2.0|Rest of Europe:
+      countries: Iceland, Liechtenstein, Antarctica, Bouvet Island, British Indian Ocean Territory, French Southern Territories, Andorra, Bosnia and Herzegovina, Faroe Islands, Gibraltar, Guernsey, Holy See, Isle of Man, Jersey, Kosovo, Monaco, Montenegro, North Macedonia, San Marino, Sark, Cyprus, Malta, Albania, Serbia
+  - WEGDYN 2.0|North America and Australia:
+      countries: Australia, Christmas Island, Cocos (Keeling) Islands, Heard Island and McDonald Islands, Norfolk Island, New Zealand, United States of America, Canada, Bermuda, Greenland, Saint Pierre and Miquelon
+  - WEGDYN 2.0|Latin America:
+      countries: Brazil, Mexico, Argentina, Bolivia, Guatemala, Honduras, Nicaragua, Peru, Falkland Islands (Malvinas), French Guiana, Guyana, South Georgia and the South Sandwich Islands, Suriname, Chile, Colombia, Dominican Republic, Ecuador, El Salvador, Paraguay, Uruguay, Costa Rica, Panama, Belize, Trinidad and Tobago, Anguilla, Antigua and Barbuda, Aruba, Bahamas, Barbados, Bonaire, Sint Eustatius and Saba, British Virgin Islands, Cayman Islands, Cuba, Curaçao, Dominica, Grenada, Montserrat, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French Part), Saint Vincent and the Grenadines, Sint Maarten (Dutch part), Turks and Caicos Islands, United States Virgin Islands, Jamaica, Puerto Rico, Venezuela (Bolivarian Republic of), Haiti
+  - WEGDYN 2.0|Asia:
+      countries: China, India, Hong Kong, Special Administrative Region of China, Singapore, Korea, Republic of, Japan, Bangladesh, Thailand, Indonesia, Viet Nam, Pakistan, Afghanistan, Malaysia, Chinese Taipei, Philippines, Cambodia, Lao PDR, Myanmar, Timor-Leste, Sri Lanka, Bhutan, Maldives, China, Macao Special Administrative Region, Democratic People's Republic of Korea, American Samoa, Cook Islands, Fiji, French Polynesia, Guam, Kiribati, Marshall Islands, Micronesia (Federated States of), Nauru, New Caledonia, Niue, Northern Mariana Islands, Palau, Papua New Guinea, Pitcairn, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, United States Minor Outlying Islands, Vanuatu, Wallis and Futuna Islands, Nepal, Brunei Darussalam, Mongolia, Tajikistan, Uzbekistan, Iraq, Lebanon, Palestinian Territory, Occupied, Syrian Arab Republic, Turkey, Israel, Saudi Arabia, United Arab Emirates, Yemen, Azerbaijan, Iran, Islamic Republic of, Bahrain, Kuwait, Oman, Qatar, Jordan, Russian Federation, Kazakhstan, Belarus, Ukraine, Armenia, Georgia, Kyrgyzstan, Turkmenistan, Republic of Moldova
+  - WEGDYN 2.0|Africa:
+      countries: Algeria, Egypt, Morocco, Tunisia, Libya, Western Sahara, Benin, Burkina Faso, Cameroon, Côte d'Ivoire, Ghana, Guinea, Mali, Niger, Nigeria, Senegal, Togo, Cabo Verde, Gambia, Guinea-Bissau, Liberia, Mauritania, Saint Helena, Sierra Leone, Central African Republic, Chad, Congo, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Comoros, Ethiopia, Kenya, Madagascar, Malawi, Mauritius, Mozambique, Rwanda, Sudan, Tanzania, United Republic of, Uganda, Zambia, Zimbabwe, Burundi, Djibouti, Eritrea, Mayotte, Seychelles, Somalia, South Sudan, Botswana, Eswatini, Namibia, South Africa, Lesotho, Angola, Sao Tome and Principe

@@ -1,0 +1,10 @@
+model: ELENA 1.0
+native_regions:
+  - Ecuador
+common_regions:
+  - Latin America (R5):
+    - Ecuador
+  - Latin America (R10):
+    - Ecuador
+  - World:
+    - Ecuador

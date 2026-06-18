@@ -1,0 +1,70 @@
+- NEMESIS-World 1.1:
+    - NEMESIS-World 1.1|AU:
+        countries: Australia
+    - NEMESIS-World 1.1|BR:
+        countries: Brazil
+    - NEMESIS-World 1.1|CA:
+        countries: Canada
+    - NEMESIS-World 1.1|CN:
+        countries: China
+    - NEMESIS-World 1.1|DE:
+        countries: Germany
+    - NEMESIS-World 1.1|ES:
+        countries: Spain
+    - NEMESIS-World 1.1|FR:
+        countries: France
+    - NEMESIS-World 1.1|ID:
+        countries: Indonesia
+    - NEMESIS-World 1.1|IN:
+        countries: India
+    - NEMESIS-World 1.1|IT:
+        countries: Italia
+    - NEMESIS-World 1.1|JP:
+        countries: Japan
+    - NEMESIS-World 1.1|KR:
+        countries: South Korea
+    - NEMESIS-World 1.1|MX:
+        countries: Mexico
+    - NEMESIS-World 1.1|RU:
+        countries: Russian Federation
+    - NEMESIS-World 1.1|UK:
+        countries: United Kingdom
+    - NEMESIS-World 1.1|US:
+        countries: United States
+    - NEMESIS-World 1.1|OE:
+        countries: [Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, 
+        Finland, Greece, Hungary, Ireland, Latvia, Lithuania, Luxembourg, Malta, Netherlands, 
+        Poland, Portugal, Romania, Slovakia, Slovenia, Sweden]
+    - NEMESIS-World 1.1|WA:
+        countries: [Afghanistan, American Samoa, Armenia, Azerbaijan, Antarctica, Bangladesh, Bhutan, Bouvet Island, 
+        British Indian Ocean Territory, Brunei Darussalam, Cambodia, Christmas Island, Cocos (Keeling) Islands, Cook Islands, Fiji, French Polynesia, 
+        French Southern Territories, Georgia, Guam, Heard Island and McDonald Islands, Hong Kong, Kazakhstan, Kiribati, Kyrgyzstan, Laos, 
+        Macao, Malaysia, Maldives, Marshall Islands, Micronesia, Mongolia, Myanmar, Nauru, Nepal, New Caledonia, New Zealand, 
+        Niue, Norfolk Island, North Korea, Northern Mariana Islands, Pakistan, Palau, Papua New Guinea, 
+        Philippines, Pitcairn, Samoa, Singapore, Solomon Islands, Sri Lanka, Taiwan, Tajikistan, Thailand, Timor-Leste, Tokelau, 
+        Tonga, Turkey, Turkmenistan, Tuvalu, United States Minor Outlying Islands, Uzbekistan, Vanuatu, Viet Nam, Wallis and Futuna]
+    - NEMESIS-World 1.1|WE:
+        countries: ["Åland Islands", Albania, Andorra, Belarus, Bosnia and Herzegovina, Faroe Islands, Gibraltar, Guernsey, Iceland, 
+        Isle of Man, Jersey, Kosovo, Liechtenstein, Moldova, Monaco, Montenegro, North Macedonia, Norway, San Marino, Serbia, 
+        Svalbard and Jan Mayen, , Switzerland, Ukraine, Vatican]
+    - NEMESIS-World 1.1|WF:
+        countries: [Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, 
+        Comoros, Congo, "Côte d'Ivoire", Djibouti, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, 
+        Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Morocco, Mozambique,
+        Namibia, Niger, Nigeria, "Réunion", Rwanda, Saint Helena, Ascension and Tristan da Cunha, Sao Tome and Principe, Senegal, 
+        Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, The Democratic Republic of the Congo, Togo, 
+        Tunisia, Uganda, Western Sahara, Zambia, Zimbabwe]
+    - NEMESIS-World 1.1|WL:
+        countries: [Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, 
+        Sint Eustatius and Saba, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, 
+        Ecuador, El Salvador, Falkland Islands (Malvinas), French Guiana, Greenland, Grenada, Guadeloupe, Guatemala, Guyana, 
+        Haiti, Honduras, Jamaica, Martinique, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, 
+        Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, 
+        Sint Maarten (Dutch part), South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, 
+        Turks and Caicos Islands, Uruguay, Venezuela, "Virgin Islands, British", "Virgin Islands, U.S."]
+    - NEMESIS-World 1.1|WM:
+        countries: [Bahrain, Egypt, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, Palestine, Qatar, Saudi Arabia, Syria, 
+        United Arab Emirates, Yemen]
+
+
+

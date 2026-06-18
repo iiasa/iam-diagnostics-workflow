@@ -1,0 +1,100 @@
+model:
+  - WEGDYN 2.0
+native_regions:
+  - DEU: WEGDYN 2.0|Germany
+  - AUT: WEGDYN 2.0|Austria
+  - ITA: WEGDYN 2.0|Italy
+  - UKD: WEGDYN 2.0|United Kingdom
+  - FRA: WEGDYN 2.0|France
+  - BLU: WEGDYN 2.0|Belgium and Luxembourg
+  - NLD: WEGDYN 2.0|Netherlands
+  - BGR: WEGDYN 2.0|Bulgaria
+  - HRV: WEGDYN 2.0|Croatia
+  - CZE: WEGDYN 2.0|Czech Republic
+  - DNK: WEGDYN 2.0|Denmark
+  - FIN: WEGDYN 2.0|Finland
+  - GRC: WEGDYN 2.0|Greece
+  - HUN: WEGDYN 2.0|Hungary
+  - IRL: WEGDYN 2.0|Ireland
+  - POL: WEGDYN 2.0|Poland
+  - PRT: WEGDYN 2.0|Portugal
+  - ROU: WEGDYN 2.0|Romania
+  - SVK: WEGDYN 2.0|Slovakia
+  - SVN: WEGDYN 2.0|Slovenia
+  - ESP: WEGDYN 2.0|Spain
+  - SWE: WEGDYN 2.0|Sweden
+  - CHE: WEGDYN 2.0|Switzerland
+  - NOR: WEGDYN 2.0|Norway
+  - BAL: WEGDYN 2.0|Baltic States
+  - REU: WEGDYN 2.0|Rest of Europe
+  - NAA: WEGDYN 2.0|North America and Australia
+  - LAM: WEGDYN 2.0|Latin America
+  - ASI: WEGDYN 2.0|Asia
+  - AFR: WEGDYN 2.0|Africa
+common_regions:
+  - World:
+    - DEU
+    - AUT
+    - ITA
+    - UKD
+    - FRA
+    - BLU
+    - NLD
+    - BGR
+    - HRV
+    - CZE
+    - DNK
+    - FIN
+    - GRC
+    - HUN
+    - IRL
+    - POL
+    - PRT
+    - ROU
+    - SVK
+    - SVN
+    - ESP
+    - SWE
+    - CHE
+    - NOR
+    - BAL
+    - REU
+    - NAA
+    - LAM
+    - ASI
+    - AFR
+  - Europe:
+    - DEU
+    - AUT
+    - ITA
+    - UKD
+    - FRA
+    - BLU
+    - NLD
+    - BGR
+    - HRV
+    - CZE
+    - DNK
+    - FIN
+    - GRC
+    - HUN
+    - IRL
+    - POL
+    - PRT
+    - ROU
+    - SVK
+    - SVN
+    - ESP
+    - SWE
+    - CHE
+    - NOR
+    - BAL
+    - REU
+  - North America and Australia:
+      - NAA
+  - Latin America:
+      - LAM
+  - Asia:
+      - ASI
+  - Africa:
+      - AFR

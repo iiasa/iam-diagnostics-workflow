@@ -1,0 +1,104 @@
+# Model-region mapping for MERGE-ETL 6.0
+# Constituents under common_regions use original MERGE-ETL native codes.
+# Expanded following patterns in common-definitions mappings for IMAGE, REMIND-MAgPIE, MESSAGEix-GLOBIOM, GCAM and GEM-E3.
+# Important: MERGE-ETL has a coarse native geography. Several common regions can therefore only be represented
+# approximately or partially. Broad ROW-only country/region mappings are intentionally avoided unless used as an
+# explicit residual/other category.
+model:
+  - MERGE-ETL 6.0
+native_regions:
+  - WLD: World
+  - EUP: MERGE-ETL 6.0|Europe
+  - RUS: MERGE-ETL 6.0|Russia
+  - MEA: MERGE-ETL 6.0|Middle East
+  - IND: MERGE-ETL 6.0|India
+  - CHI: MERGE-ETL 6.0|China
+  - JPN: MERGE-ETL 6.0|Japan
+  - CANZ: MERGE-ETL 6.0|Canada, Australia and New Zealand
+  - USA: MERGE-ETL 6.0|United States of America
+  - ROW: MERGE-ETL 6.0|Rest of the World
+common_regions:
+  - World:
+      - EUP
+      - RUS
+      - MEA
+      - IND
+      - CHI
+      - JPN
+      - CANZ
+      - USA
+      - ROW
+
+  # R5 regions
+  # These follow the coarse aggregation provided in Merge_Regions.xlsx.
+  - OECD & EU (R5):
+      - EUP
+      - JPN
+      - CANZ
+      - USA
+  - Reforming Economies (R5):
+      - RUS
+  - Asia (R5):
+      - IND
+      - CHI
+  - Middle East & Africa (R5):
+      - MEA
+  - Other (R5):
+      - ROW
+
+  # R9 regions
+  # EUP is broader than EU27; Other OECD can only capture CANZ and Japan explicitly.
+  - European Union (R9):
+      - EUP
+  - USA (R9):
+      - USA
+  - Other OECD (R9):
+      - CANZ
+      - JPN
+  - China (R9):
+      - CHI
+  - India (R9):
+      - IND
+  - Reforming Economies (R9):
+      - RUS
+  - Middle East & Africa (R9):
+      - MEA
+  - Other (R9):
+      - ROW
+
+  # R10 regions
+  # CANZ cannot be split into Canada versus Australia/New Zealand, so it is kept in Other (R10),
+  # similar to coarse-region examples where unmatched composites are placed in Other.
+  - China+ (R10):
+      - CHI
+  - Europe (R10):
+      - EUP
+  - India+ (R10):
+      - IND
+  - Middle East (R10):
+      - MEA
+  - North America (R10):
+      - USA
+  - Pacific OECD (R10):
+      - JPN
+  - Reforming Economies (R10):
+      - RUS
+  - Other (R10):
+      - CANZ
+      - ROW
+
+  # Individual countries and key regions that can be represented by dedicated or near-dedicated MERGE-ETL regions.
+  - China:
+      - CHI
+  - Russian Federation:
+      - RUS
+  - India:
+      - IND
+  - Japan:
+      - JPN
+  - United States:
+      - USA
+  - European Union:
+      - EUP
+  - European Union and United Kingdom:
+      - EUP
