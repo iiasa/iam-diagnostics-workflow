@@ -1,39 +1,81 @@
 # Mandatory scenarios
-- NPi:
-    description: National policies implemented, based on SSP2 (or model default)
-- LinearPrice-400:
+- Current-Policies:
+    description: The default current climate policy reference scenario. Only
+                implemented policies should be included, not targets that are
+                not supported by policies (e.g. NDC). Climate policies can be
+                explicitly modelled (preferably) or represented by a carbon price.
+                If neither option is available, model teams can use their
+                default No-Policybaseline. If a scenario deviates from CP,
+                a description of the scenario assumptions should be provided.
+- C400-lin:
     description: Linearly increasing carbon price starting in 2030 with $35, yielding $400 in 2050
-- LinearPrice-200:
-    description: Linearly increasing carbon price starting in 2030 with $17.5, yielding $200 in 2050
-- Exponential-5p-160:
+- C160-gr5:
     description: Exponentially increasing carbon price, starting in 2030 with $160, with a 5% growth rate
-- Exponential-5p-80:
+- C80-gr5:
     description: Exponentially increasing carbon price, starting in 2030 with $80, with a 5% growth rate
-- LinearPrice-400-shock:
-    description: Same as LinearPrice-400, but only starting nonzero carbon price in 2050 (shock from $0 to $400)
+- C0to400-lin:
+    description: Same as C400-lin from 2050 onward (shock from $0 to $400 in 2050)
 
 # Lim variants
-- LinearPrice-400-LimBio:
-    description: As in LinearPrice-400, but with limits on bioenergy supply
-- LinearPrice-400-LimCCS:
-    description: As in LinearPrice-400, but with limits on CCS
-- LinearPrice-400-LimCDR:
-    description: As in LinearPrice-400, but with limits on CDR
+- C400-lin-LimBio:
+    description: As in C400-lin, but with limits on bioenergy supply
+- C400-lin-LimCCS:
+    description: As in C400-lin, but with limits on CCS
+- C400-lin-LimCDR:
+    description: As in C400-lin, but with limits on CDR
 
 # Other optional ones
-- LinearPrice-400-allpolicies:
-    description: Carbon pricing as in LinearPrice-400, but now adding all options to yield as low emission as possible
+- C400-lin-Diet:
+    description: As in C400-lin, but additionally an implementation of the EAT-Lancet diet 2 implemented from 2025 to 2070.
+- C400-lin-BiodivProt:
+    description: As in LinearPrice-400, with land use protection for biodiversity implemented from 2030 to 2100 (30%).
+- C400-lin-Policies:
+    description: As in LinearPrice-400, plus all non-carbon price related policies or modeling switches that modelling teams have to get to lowest temperature stabilization.
+- No-Policy:
+    description: Counterfactual scenario with no climate policies and no carbon prices.
 
 # SSP variants
-- NPi-SSP1:
-    description: National policies implemented, based on SSP1 (rather than SSP2 or model default)
-- NPi-SSP3:
-    description: National policies implemented, based on SSP3 (rather than SSP2 or model default)
-- NPi-SSP5:
-    description: National policies implemented, based on SSP5 (rather than SSP2 or model default)
-- LinearPrice-400-SSP1:
-    description: Same as LinearPrice-400, but with SSP1 assumptions
-- LinearPrice-400-SSP3:
-    description: Same as LinearPrice-400, but with SSP3 assumptions
-- LinearPrice-400-SSP5:
-    description: Same as LinearPrice-400, but with SSP5 assumptions
+- CP-SSP1:
+    description: CP based on SSP1
+- CP-SSP3:
+    description: CP based on SSP3
+- CP-SSP4:
+    description: CP based on SSP4
+- CP-SSP5:
+    description: CP based on SSP5
+
+- C400-lin-SSP1:
+    description: C400-lin based on SSP2
+- C400-lin-SSP3:
+    description: C400-lin based on SSP3
+- C400-lin-SSP4:
+    description: C400-lin based on SSP4
+- C400-lin-SSP5:
+    description: C400-lin based on SSP5
+
+- C160-gr5-SSP1:
+    description: C160-gr5 based on SSP1
+- C160-gr5-SSP3:
+    description: C160-gr5 based on SSP3
+- C160-gr5-SSP4:
+    description: C160-gr5 based on SSP4
+- C160-gr5-SSP5:
+    description: C160-gr5 based on SSP5
+
+- C80-gr5-SSP1:
+    description: C80-gr5 based on SSP1
+- C80-gr5-SSP3:
+    description: C80-gr5 based on SSP3
+- C80-gr5-SSP4:
+    description: C80-gr5 based on SSP4
+- C80-gr5-SSP5:
+    description: C80-gr5 based on SSP5
+
+- C0to400-lin-SSP1:
+    description: C0to400-lin based on SSP1
+- C0to400-lin-SSP3:
+    description: C0to400-lin based on SSP3
+- C0to400-lin-SSP4:
+    description: C0to400-lin based on SSP4
+- C0to400-lin-SSP5:
+    description: C0to400-lin based on SSP5
