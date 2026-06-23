@@ -47,7 +47,7 @@
     - NEMESIS-World 1.1|WE:
         countries: ["Åland Islands", Albania, Andorra, Belarus, Bosnia and Herzegovina, Faroe Islands, Gibraltar, Guernsey, Iceland, 
             Isle of Man, Jersey, Kosovo, Liechtenstein, Moldova, Monaco, Montenegro, North Macedonia, Norway, San Marino, Serbia, 
-            Svalbard and Jan Mayen, , Switzerland, Ukraine, Vatican]
+            Svalbard and Jan Mayen, Switzerland, Ukraine, Vatican]
     - NEMESIS-World 1.1|WF:
         countries: [Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, 
             Comoros, Congo, "Côte d'Ivoire", Djibouti, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, 
