@@ -2,30 +2,28 @@ model:
   - NEMESIS-World v1.1
 
 native_regions:
-    - AU:NEMESIS-World 1.1|AU
-    - BR:NEMESIS-World 1.1|BR
-    - CA:NEMESIS-World 1.1|CA
-    - CN:NEMESIS-World 1.1|CN
-    - DE:NEMESIS-World 1.1|DE
-    - ES:NEMESIS-World 1.1|ES
-    - FR:NEMESIS-World 1.1|FR
-    - ID:NEMESIS-World 1.1|ID
-    - IN:NEMESIS-World 1.1|IN
-    - IT:NEMESIS-World 1.1|IT
-    - JP:NEMESIS-World 1.1|JP
-    - KR:NEMESIS-World 1.1|KR
-    - MX:NEMESIS-World 1.1|MX
-    - RU:NEMESIS-World 1.1|RU
-    - UK:NEMESIS-World 1.1|UK
-    - US:NEMESIS-World 1.1|US
-    - OE:NEMESIS-World 1.1|OE
-    - WA:NEMESIS-World 1.1|WA
-    - WE:NEMESIS-World 1.1|WE
-    - WF:NEMESIS-World 1.1|WF
-    - WL:NEMESIS-World 1.1|WL
-    - WM:NEMESIS-World 1.1|WM
-
-
+  - AU: NEMESIS-World 1.1|AU
+  - BR: NEMESIS-World 1.1|BR
+  - CA: NEMESIS-World 1.1|CA
+  - CN: NEMESIS-World 1.1|CN
+  - DE: NEMESIS-World 1.1|DE
+  - ES: NEMESIS-World 1.1|ES
+  - FR: NEMESIS-World 1.1|FR
+  - ID: NEMESIS-World 1.1|ID
+  - IN: NEMESIS-World 1.1|IN
+  - IT: NEMESIS-World 1.1|IT
+  - JP: NEMESIS-World 1.1|JP
+  - KR: NEMESIS-World 1.1|KR
+  - MX: NEMESIS-World 1.1|MX
+  - RU: NEMESIS-World 1.1|RU
+  - UK: NEMESIS-World 1.1|UK
+  - US: NEMESIS-World 1.1|US
+  - OE: NEMESIS-World 1.1|OE
+  - WA: NEMESIS-World 1.1|WA
+  - WE: NEMESIS-World 1.1|WE
+  - WF: NEMESIS-World 1.1|WF
+  - WL: NEMESIS-World 1.1|WL
+  - WM: NEMESIS-World 1.1|WM
 
 common_regions:
   - World:
