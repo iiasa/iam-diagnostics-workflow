@@ -14,9 +14,11 @@ definitions:
         - hierarchy: R10
         - hierarchy: Regional Organizations
         - hierarchy: IMAGE 3.4
+        - hierarchy: GRACE v26
     country: true
 mappings:
   repository:
     name: common-definitions
     include:
       - IMAGE 3.4
+      - GRACE v26
