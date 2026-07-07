@@ -15,6 +15,7 @@ definitions:
         - hierarchy: Regional Organizations
         - hierarchy: IMAGE 3.4
         - hierarchy: GRACE v26
+        - hierarchy: MESSAGEix-GLOBIOM-GAINS 2.1-R12
     country: true
 mappings:
   repository:
@@ -22,3 +23,4 @@ mappings:
     include:
       - IMAGE 3.4
       - GRACE v26
+      - MESSAGEix-GLOBIOM-GAINS 2.1-BMT-R12
