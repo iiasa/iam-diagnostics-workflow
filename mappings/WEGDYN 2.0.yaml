@@ -63,7 +63,7 @@ common_regions:
     - LAM
     - ASI
     - AFR
-  - Europe:
+  - Europe (R10):
     - DEU
     - AUT
     - ITA
@@ -90,11 +90,9 @@ common_regions:
     - NOR
     - BAL
     - REU
-  - North America and Australia:
-      - NAA
-  - Latin America:
+  - Latin America (R5):
       - LAM
-  - Asia:
+  - Asia (R5):
       - ASI
-  - Africa:
+  - Africa (R10):
       - AFR
