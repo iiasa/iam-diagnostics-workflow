@@ -53,8 +53,8 @@
       countries: [Iceland, Liechtenstein, Antarctica, Bouvet Island,
             British Indian Ocean Territory, French Southern Territories,
             Andorra, Bosnia and Herzegovina, Faroe Islands, Gibraltar, Guernsey,
-            Holy See, Isle of Man, Jersey, Kosovo, Monaco, Montenegro,
-            North Macedonia, San Marino, Sark, Cyprus, Malta, Albania, Serbia]
+            Isle of Man, Jersey, Kosovo, Monaco, Montenegro,
+            North Macedonia, San Marino, Cyprus, Malta, Albania, Serbia]
   - WEGDYN 2.0|North America and Australia:
       countries: [Australia, Christmas Island, Cocos (Keeling) Islands,
             Heard Island and McDonald Islands, Norfolk Island, New Zealand,
