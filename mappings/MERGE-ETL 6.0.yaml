@@ -17,7 +17,6 @@ native_regions:
   - CANZ: MERGE-ETL 6.0|Canada, Australia and New Zealand
   - USA: MERGE-ETL 6.0|United States of America
   - ROW: MERGE-ETL 6.0|Rest of the World
-  - World
 
 common_regions:
   - World:

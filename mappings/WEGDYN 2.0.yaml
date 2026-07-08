@@ -63,7 +63,7 @@ common_regions:
     - LAM
     - ASI
     - AFR
-  - Europe (R10):
+  - European Union and United Kingdom:
     - DEU
     - AUT
     - ITA
@@ -86,13 +86,5 @@ common_regions:
     - SVN
     - ESP
     - SWE
-    - CHE
-    - NOR
     - BAL
     - REU
-  - Latin America (R5):
-      - LAM
-  - Asia (R5):
-      - ASI
-  - Africa (R10):
-      - AFR
