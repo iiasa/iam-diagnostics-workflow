@@ -19,18 +19,17 @@ definitions:
         - hierarchy: IMAGE 3.4
         - hierarchy: AIM/Hub-Global 2.4
         - hierarchy: AIM 3.0
-        - hierarchy: COFFEE 1.9
-        - hierarchy: COFFEE 2.0
-        - hierarchy: GEM-E3_V2026
+        - hierarchy: COFFEE 1.5
+        - hierarchy: COFFEE 1.6
+        - hierarchy: GEM-E3 V2026
         - hierarchy: GCAM 8.2
-        - hierarchy: IMACLIM-R World 2.1
+        - hierarchy: IMACLIM 2.0
         - hierarchy: OPEN-PROM 2.2
         - hierarchy: POLES 2.4
-        - hierarchy: PROMETHEUS_V1
+        - hierarchy: PROMETHEUS V1
         - hierarchy: REMIND-MAgPIE 3.5-4.11
         - hierarchy: WITCH 6.0
-        - hierarchy: WITCHwise 7.0
-        - hierarchy: C3IAM v3.0
+        - hierarchy: C3IAM 3.0
     country: true
 mappings:
   repository:
@@ -42,15 +41,14 @@ mappings:
       - IMAGE 3.4
       - AIM/Hub-Global 2.4
       - AIM 3.0
-      - COFFEE 1.9
-      - COFFEE 2.0
-      - GEM-E3_V2026
+      - COFFEE 1.5
+      - COFFEE 1.6
+      - GEM-E3 V2026
       - GCAM 8.2
-      - IMACLIM-R World 2.1
+      - IMACLIM 2.0
       - OPEN-PROM 2.2
       - POLES 2.4
-      - PROMETHEUS_V1
+      - PROMETHEUS V1
       - REMIND-MAgPIE 3.5-4.11
       - WITCH 6.0
-      - WITCHwise 7.0
-      - C3IAM v3.0
+      - C3IAM 3.0
