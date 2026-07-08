@@ -1,0 +1,94 @@
+# AD-MERGE 2.0 regional mapping.
+- AD-MERGE 2.0:
+    - AD-MERGE 2.0|Africa:
+        countries: [
+          Angola, Benin, Burkina Faso, Burundi, Botswana, Central African Republic,
+          Cameroon, Democratic Republic of the Congo, Congo, Comoros, Cabo Verde,
+          Côte d'Ivoire, Chad, Djibouti, Algeria, Egypt, Equatorial Guinea, Eritrea,
+          Ethiopia, Gabon, Ghana, Guinea, Gambia, Guinea-Bissau, Kenya, Liberia,
+          Libya, Lesotho, Madagascar, Malawi, Mali, Morocco, Mauritania, Mauritius,
+          Mozambique, Namibia, Niger, Nigeria, Rwanda, Sao Tome and Principe,
+          Senegal, Seychelles, Sierra Leone, Somalia, South Sudan, South Africa,
+          Sudan, Eswatini, Tanzania, Togo, Tunisia, Uganda, Zambia, Zimbabwe
+        ]
+
+    - AD-MERGE 2.0|Australia and New Zealand:
+        countries: [
+          Australia, New Zealand
+        ]
+
+    - AD-MERGE 2.0|Brazil:
+        countries: Brazil
+
+    - AD-MERGE 2.0|Canada:
+        countries: Canada
+
+    - AD-MERGE 2.0|China:
+        countries: China
+
+    - AD-MERGE 2.0|India:
+        countries: India
+
+    - AD-MERGE 2.0|Japan and South Korea:
+        countries: [
+          Japan, South Korea
+        ]
+
+    - AD-MERGE 2.0|Mexico:
+        countries: Mexico
+
+    - AD-MERGE 2.0|Middle East:
+        countries: [
+          Bahrain, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, Palestine,
+          Qatar, Saudi Arabia, Syria, United Arab Emirates, Yemen
+        ]
+
+    - AD-MERGE 2.0|Other Asia:
+        countries: [
+          Afghanistan, Bangladesh, Bhutan, Myanmar, Brunei Darussalam, Cambodia,
+          Hong Kong, Indonesia, Laos, Macao, Malaysia, Maldives,
+          Mongolia, Nepal, North Korea, Pakistan, Philippines, Papua New Guinea,
+          Singapore, Sri Lanka, Timor-Leste, Thailand, Viet Nam, American Samoa,
+          Cook Islands, Fiji, French Polynesia, Guam, Kiribati, Marshall Islands,
+          Micronesia, Nauru, Niue, Northern Mariana Islands, Palau, Papua New Guinea,
+          Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, Vanuatu, Wallis and Futuna
+        ]
+
+    - AD-MERGE 2.0|Other Central and South America:
+        countries: [
+          Argentina, Bolivia, Chile, Colombia, Ecuador, Falkland Islands (Malvinas),
+          Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela, Belize, Costa Rica,
+          El Salvador, Guatemala, Honduras, Nicaragua, Panama, Anguilla,
+          Antigua and Barbuda, Aruba, Bahamas, Barbados, Bermuda,
+          "Bonaire, Sint Eustatius and Saba", British Virgin Islands,
+          Cayman Islands, Cuba, Curaçao, Dominica, Dominican Republic, Grenada,
+          Guadeloupe, Haiti, Jamaica, Martinique, Montserrat, Puerto Rico,
+          Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia,
+          Saint Martin (French part), Saint Vincent and the Grenadines,
+          Trinidad and Tobago, Turks and Caicos Islands, United States Virgin Islands
+        ]
+
+    - AD-MERGE 2.0|Other Euroasia:
+        countries: [
+          Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria,
+          Cyprus, Georgia, Kazakhstan, Kyrgyzstan, Kosovo, Latvia, Lithuania,
+          Moldova, North Macedonia, Romania, Serbia, Tajikistan, Turkey,
+          Turkmenistan, Ukraine, Uzbekistan
+        ]
+
+    - AD-MERGE 2.0|Russia:
+        countries: Russian Federation
+
+    - AD-MERGE 2.0|United States of America:
+        countries: United States
+
+    - AD-MERGE 2.0|Western Europe:
+        countries: [
+          Andorra, Austria, Belgium, Switzerland, Czechia, Germany, Denmark,
+          Estonia, Finland, France, Faroe Islands, United Kingdom, Gibraltar,
+          Greece, Greenland, Croatia, Hungary, Spain, Isle of Man, Ireland,
+          Iceland, Italy, Liechtenstein, Luxembourg, Monaco, Malta, Montenegro,
+          Netherlands, Norway, Poland, Portugal, San Marino, Slovakia, Slovenia,
+          Sweden, Vatican
+        ]
+```

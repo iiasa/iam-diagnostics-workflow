@@ -1,0 +1,282 @@
+# Native regions for UNICON-IAM V2 — countries follow the IIASA common list of country names
+# (https://docs.ece.iiasa.ac.at/standards/countries.html)
+
+- UNICON-IAM V2:
+  - UNICON-IAM V2|Republic of Korea:
+      countries:
+        - South Korea
+  - UNICON-IAM V2|China:
+      countries:
+        - China
+  - UNICON-IAM V2|Japan:
+      countries:
+        - Japan
+  - UNICON-IAM V2|India:
+      countries:
+        - India
+  - UNICON-IAM V2|ASEAN:
+      countries:
+        - Brunei Darussalam
+        - Cambodia
+        - Indonesia
+        - Laos
+        - Malaysia
+        - Myanmar
+        - Philippines
+        - Singapore
+        - Thailand
+        - Timor-Leste
+        - Viet Nam
+  - UNICON-IAM V2|Oceania:
+      countries:
+        - Australia
+        - Fiji
+        - Kiribati
+        - Marshall Islands
+        - Micronesia
+        - Nauru
+        - New Zealand
+        - Palau
+        - Papua New Guinea
+        - Samoa
+        - Solomon Islands
+        - Tonga
+        - Tuvalu
+        - Vanuatu
+  - UNICON-IAM V2|United States of America:
+      countries:
+        - United States
+        - United States Minor Outlying Islands
+  - UNICON-IAM V2|Canada:
+      countries:
+        - Canada
+  - UNICON-IAM V2|European Union & United Kingdom:
+      countries:
+        - Austria
+        - Belgium
+        - Bulgaria
+        - Croatia
+        - Cyprus
+        - Czechia
+        - Denmark
+        - Estonia
+        - Finland
+        - France
+        - Germany
+        - Greece
+        - Hungary
+        - Ireland
+        - Italy
+        - Latvia
+        - Lithuania
+        - Luxembourg
+        - Malta
+        - Netherlands
+        - Poland
+        - Portugal
+        - Romania
+        - Slovakia
+        - Slovenia
+        - Spain
+        - Sweden
+        - United Kingdom
+  - UNICON-IAM V2|Russia and Neighboring Transition Countries:
+      countries:
+        - Armenia
+        - Azerbaijan
+        - Belarus
+        - Georgia
+        - Kazakhstan
+        - Kyrgyzstan
+        - Moldova
+        - Russian Federation
+        - Tajikistan
+        - Turkmenistan
+        - Ukraine
+        - Uzbekistan
+  - UNICON-IAM V2|Latin America:
+      countries:
+        - Argentina
+        - Bolivia
+        - Brazil
+        - Chile
+        - Colombia
+        - Costa Rica
+        - Cuba
+        - Dominican Republic
+        - Ecuador
+        - El Salvador
+        - Guatemala
+        - Honduras
+        - Mexico
+        - Nicaragua
+        - Panama
+        - Paraguay
+        - Peru
+        - Puerto Rico
+        - Uruguay
+        - Venezuela
+  - UNICON-IAM V2|Middle East and North Africa:
+      countries:
+        - Algeria
+        - Bahrain
+        - Egypt
+        - Iran
+        - Iraq
+        - Israel
+        - Jordan
+        - Kuwait
+        - Lebanon
+        - Libya
+        - Morocco
+        - Oman
+        - Palestine
+        - Qatar
+        - Saudi Arabia
+        - Syria
+        - Tunisia
+        - United Arab Emirates
+        - Western Sahara
+        - Yemen
+  - UNICON-IAM V2|Sub-Saharan Africa:
+      countries:
+        - Angola
+        - Benin
+        - Botswana
+        - Burkina Faso
+        - Burundi
+        - Cabo Verde
+        - Cameroon
+        - Central African Republic
+        - Chad
+        - Comoros
+        - Congo
+        - Côte d'Ivoire
+        - Democratic Republic of the Congo
+        - Djibouti
+        - Equatorial Guinea
+        - Eritrea
+        - Eswatini
+        - Ethiopia
+        - Gabon
+        - Gambia
+        - Ghana
+        - Guinea
+        - Guinea-Bissau
+        - Kenya
+        - Lesotho
+        - Liberia
+        - Madagascar
+        - Malawi
+        - Mali
+        - Mauritania
+        - Mauritius
+        - Mozambique
+        - Namibia
+        - Niger
+        - Nigeria
+        - Rwanda
+        - Sao Tome and Principe
+        - Senegal
+        - Seychelles
+        - Sierra Leone
+        - Somalia
+        - South Africa
+        - South Sudan
+        - Sudan
+        - Tanzania
+        - Togo
+        - Uganda
+        - Zambia
+        - Zimbabwe
+  - UNICON-IAM V2|Rest of the World:
+      countries:
+        - Afghanistan
+        - Albania
+        - American Samoa
+        - Andorra
+        - Anguilla
+        - Antarctica
+        - Antigua and Barbuda
+        - Aruba
+        - Bahamas
+        - Bangladesh
+        - Barbados
+        - Belize
+        - Bermuda
+        - Bhutan
+        - "Bonaire, Sint Eustatius and Saba"
+        - Bosnia and Herzegovina
+        - Bouvet Island
+        - British Indian Ocean Territory
+        - British Virgin Islands
+        - Cayman Islands
+        - Christmas Island
+        - Cocos (Keeling) Islands
+        - Cook Islands
+        - Curaçao
+        - Dominica
+        - Falkland Islands (Malvinas)
+        - Faroe Islands
+        - French Guiana
+        - French Polynesia
+        - French Southern Territories
+        - Gibraltar
+        - Greenland
+        - Grenada
+        - Guadeloupe
+        - Guam
+        - Guernsey
+        - Guyana
+        - Haiti
+        - Heard Island and McDonald Islands
+        - Hong Kong
+        - Iceland
+        - Isle of Man
+        - Jamaica
+        - Jersey
+        - Kosovo
+        - Liechtenstein
+        - Macao
+        - Maldives
+        - Martinique
+        - Mayotte
+        - Monaco
+        - Mongolia
+        - Montenegro
+        - Montserrat
+        - Nepal
+        - New Caledonia
+        - Niue
+        - Norfolk Island
+        - North Korea
+        - North Macedonia
+        - Northern Mariana Islands
+        - Norway
+        - Pakistan
+        - Pitcairn
+        - Réunion
+        - Saint Barthélemy
+        - "Saint Helena, Ascension and Tristan da Cunha"
+        - Saint Kitts and Nevis
+        - Saint Lucia
+        - Saint Martin (French part)
+        - Saint Pierre and Miquelon
+        - Saint Vincent and the Grenadines
+        - San Marino
+        - Serbia
+        - Sint Maarten (Dutch part)
+        - South Georgia and the South Sandwich Islands
+        - Sri Lanka
+        - Suriname
+        - Svalbard and Jan Mayen
+        - Switzerland
+        - Taiwan
+        - Tokelau
+        - Trinidad and Tobago
+        - Turkey
+        - Turks and Caicos Islands
+        - United States Virgin Islands
+        - Vatican
+        - Wallis and Futuna
+        - Åland Islands

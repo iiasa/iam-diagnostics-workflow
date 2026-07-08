@@ -1,0 +1,56 @@
+# Native-region definitions for MERGE-ETL 6.0
+# Generated from Merge_Regions.xlsx.
+# EUP is described as Europe rather than European Union, because the MERGE-ETL EUP region includes
+# EU and non-EU European countries.
+- MERGE-ETL 6.0:
+    - MERGE-ETL 6.0|Europe:
+        countries: [ Albania, Andorra, Austria, Belgium, Bosnia and Herzegovina,
+            Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France,
+            Germany, Gibraltar, Greece, Greenland, Vatican, Hungary, Iceland, Ireland,
+            Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, North Macedonia,
+            Malta, Monaco, Montenegro, Netherlands, Norway, Poland, Portugal, Romania,
+            San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland,
+            United Kingdom, Kosovo ]
+    - MERGE-ETL 6.0|Russia:
+        countries: Russian Federation
+    - MERGE-ETL 6.0|Middle East:
+        countries: [ Bahrain, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, Qatar,
+            Saudi Arabia, Syria, United Arab Emirates, Yemen, Palestine ]
+    - MERGE-ETL 6.0|India:
+        countries: India
+    - MERGE-ETL 6.0|China:
+        countries: [ China, Hong Kong, Macao, Taiwan ]
+    - MERGE-ETL 6.0|Japan:
+        countries: Japan
+    - MERGE-ETL 6.0|Canada, Australia and New Zealand:
+        countries: [ Australia, Canada, New Zealand ]
+    - MERGE-ETL 6.0|United States of America:
+        countries: [ United States, United States Minor Outlying Islands ]
+    - MERGE-ETL 6.0|Rest of the World:
+        countries: [ Afghanistan, Algeria, American Samoa, Angola, Anguilla, Antarctica,
+            Antigua and Barbuda, Argentina, Armenia, Aruba, Azerbaijan, Bahamas, Bangladesh,
+            Barbados, Belarus, Belize, Benin, Bermuda, Bhutan, Bolivia, Botswana, Bouvet Island,
+            Brazil, British Indian Ocean Territory, Brunei Darussalam, Burkina Faso, Burundi,
+            Cambodia, Cameroon, Cabo Verde, Cayman Islands, Central African Republic, Chad,
+            Chile, Christmas Island, Cocos (Keeling) Islands, Colombia, Comoros, Congo,
+            Democratic Republic of the Congo, Cook Islands, Costa Rica, "Côte d'Ivoire",
+            Cuba, Djibouti, Dominica, Dominican Republic, Timor-Leste, Ecuador, Egypt, El Salvador,
+            Equatorial Guinea, Eritrea, Ethiopia, Falkland Islands (Malvinas), Faroe Islands,
+            Fiji, French Guiana, French Polynesia, French Southern Territories, Gabon, Gambia,
+            Georgia, Ghana, Grenada, Guadeloupe, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana,
+            Haiti, Heard Island and McDonald Islands, Honduras, Indonesia, Jamaica, Kazakhstan,
+            Kenya, Kiribati, North Korea, South Korea, Kyrgyzstan, Laos, Lesotho, Liberia, Libya,
+            Madagascar, Malawi, Malaysia, Maldives, Mali, Marshall Islands, Martinique,
+            Mauritania, Mauritius, Mayotte, Mexico, Micronesia, Moldova, Mongolia, Montserrat,
+            Morocco, Mozambique, Myanmar, Namibia, Nauru, Nepal, "Bonaire, Sint Eustatius and Saba",
+            Curaçao, Sint Maarten (Dutch part), New Caledonia, Nicaragua, Niger, Nigeria, Niue,
+            Norfolk Island, Northern Mariana Islands, Pakistan, Palau, Panama, Papua New Guinea,
+            Paraguay, Peru, Philippines, Pitcairn, Puerto Rico, Réunion, Rwanda,
+            "Saint Helena, Ascension and Tristan da Cunha", Saint Kitts and Nevis, Saint Lucia,
+            Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Samoa, Sao Tome and Principe,
+            Senegal, Seychelles, Sierra Leone, Singapore, Solomon Islands, Somalia, South Africa,
+            South Georgia and the South Sandwich Islands, Sri Lanka, Sudan, Suriname,
+            Svalbard and Jan Mayen, Eswatini, Tajikistan, Tanzania, Thailand, Togo, Tokelau, Tonga,
+            Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Turks and Caicos Islands, Tuvalu,
+            Uganda, Ukraine, Uruguay, Uzbekistan, Vanuatu, Venezuela, Viet Nam, British Virgin Islands,
+            United States Virgin Islands, Wallis and Futuna, Western Sahara, Zambia, Zimbabwe, South Sudan ]

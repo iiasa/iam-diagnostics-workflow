@@ -28,11 +28,10 @@ If you have not participated in previous IAM MIPs before, read the guidance belo
 to add your model registration, but also important regional mappings that greatly
 help the analysis. Feel free to reach out to Mark Dekker for general questions.
 For more information the exercise, see the
-[protocol](https://doi.org/10.5281/zenodo.19554965) for the scenarios, or the
+[protocol](https://doi.org/10.5281/zenodo.18757529) for the scenarios, or the
 [announcement]
 (https://www.iamconsortium.org/iamc-announcements/invitation-iam-diagnostic-exercise/)
-on the IAMC website. Submissions should be done at the IIASA diagnostics
-[app](https://iam-diagnostics-internal.apps.ece.iiasa.ac.at/submission) (access needs to be provided via us/IIASA).
+on the IAMC website.
 
 ## Project nomenclature
 

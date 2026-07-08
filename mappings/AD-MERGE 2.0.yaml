@@ -1,0 +1,136 @@
+model:
+  - AD-MERGE 2.0
+
+native_regions:
+  - USA: AD-MERGE 2.0|United States
+  - CAN: AD-MERGE 2.0|Canada
+  - MEX: AD-MERGE 2.0|Mexico
+  - BRA: AD-MERGE 2.0|Brazil
+  - CLA: AD-MERGE 2.0|Central and Latin America
+  - WEU: AD-MERGE 2.0|Western Europe
+  - RUS: AD-MERGE 2.0|Russia
+  - CHN: AD-MERGE 2.0|China
+  - IND: AD-MERGE 2.0|India
+  - JSK: AD-MERGE 2.0|Japan and South Korea
+  - ANZ: AD-MERGE 2.0|Australia and New Zealand
+  - MEA: AD-MERGE 2.0|Middle East 
+  - OEA: AD-MERGE 2.0|Other Eurasia
+  - OAS: AD-MERGE 2.0|Other Asia
+  - AFR: AD-MERGE 2.0|Africa
+
+common_regions:
+  - World:
+      - USA
+      - CAN
+      - MEX
+      - BRA
+      - CLA
+      - WEU
+      - RUS
+      - CHN
+      - IND
+      - JSK
+      - ANZ
+      - MEA
+      - OEA
+      - OAS
+      - AFR
+
+  # R5 regions
+  - OECD & EU (R5):
+      - USA
+      - CAN
+      - WEU
+      - JSK
+      - ANZ
+  - Reforming Economies (R5):
+      - RUS
+      - OEA
+  - Asia (R5):
+      - CHN
+      - IND
+      - OAS
+  - Middle East & Africa (R5):
+      - MEA
+      - AFR
+  - Latin America (R5):
+      - MEX
+      - BRA
+      - CLA
+
+  # R9 regions
+  - European Union (R9):
+      - WEU
+  - USA (R9):
+      - USA
+  - Other OECD (R9):
+      - CAN
+      - JSK
+      - ANZ
+  - China (R9):
+      - CHN
+  - India (R9):
+      - IND
+  - Other Asia (R9):
+      - OAS
+  - Reforming Economies (R9):
+      - RUS
+      - OEA
+  - Latin America (R9):
+      - MEX
+      - BRA
+      - CLA
+  - Middle East & Africa (R9):
+      - MEA
+      - AFR
+
+  # R10 regions
+  - Africa (R10):
+      - AFR
+  - China+ (R10):
+      - CHN
+  - Europe (R10):
+      - WEU
+  - India+ (R10):
+      - IND
+  - Latin America (R10):
+      - MEX
+      - BRA
+      - CLA
+  - Middle East (R10):
+      - MEA
+  - North America (R10):
+      - USA
+      - CAN
+  - Pacific OECD (R10):
+      - JSK
+      - ANZ
+  - Reforming Economies (R10):
+      - RUS
+      - OEA
+  - Rest of Asia (R10):
+      - OAS
+
+  # mapping for G20 members represented directly or approximately
+  - Brazil:
+      - BRA
+  - Canada:
+      - CAN
+  - China:
+      - CHN
+  - India:
+      - IND
+  - Mexico:
+      - MEX
+  - Russia:
+      - RUS
+  - United States:
+      - USA
+  - Australia:
+      - ANZ
+
+
+  - European Union and United Kingdom:
+      - WEU
+  - African Union:
+      - AFR

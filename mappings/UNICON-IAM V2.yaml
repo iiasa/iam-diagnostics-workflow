@@ -1,0 +1,110 @@
+model:
+  - UNICON-IAM V2
+
+native_regions:
+  - KOR: UNICON-IAM V2|Republic of Korea
+  - CHN: UNICON-IAM V2|China
+  - JPN: UNICON-IAM V2|Japan
+  - IND: UNICON-IAM V2|India
+  - ASEAN: UNICON-IAM V2|ASEAN
+  - OCE: UNICON-IAM V2|Oceania
+  - USA: UNICON-IAM V2|United States of America
+  - CAN: UNICON-IAM V2|Canada
+  - EUR: UNICON-IAM V2|European Union & United Kingdom
+  - FSU: UNICON-IAM V2|Russia and Neighboring Transition Countries
+  - LATAM: UNICON-IAM V2|Latin America
+  - MENA: UNICON-IAM V2|Middle East and North Africa
+  - SSA: UNICON-IAM V2|Sub-Saharan Africa
+  - ROW: UNICON-IAM V2|Rest of the World
+
+common_regions:
+  - World:
+      - KOR
+      - CHN
+      - JPN
+      - IND
+      - ASEAN
+      - OCE
+      - USA
+      - CAN
+      - EUR
+      - FSU
+      - LATAM
+      - MENA
+      - SSA
+      - ROW
+
+  # R5 regions
+  - Asia (R5):
+      - KOR
+      - CHN
+      - IND
+      - ASEAN
+  - Latin America (R5):
+      - LATAM
+  - Middle East & Africa (R5):
+      - MENA
+      - SSA
+  - OECD & EU (R5):
+      - JPN
+      - OCE
+      - USA
+      - CAN
+      - EUR
+  - Reforming Economies (R5):
+      - FSU
+  - Other (R5):
+      - ROW
+
+  # R9 regions
+  - European Union (R9):
+      - EUR
+  - USA (R9):
+      - USA
+  - Other OECD (R9):
+      - JPN
+      - OCE
+      - CAN
+  - China (R9):
+      - CHN
+  - India (R9):
+      - IND
+  - Other Asia (R9):
+      - KOR
+      - ASEAN
+  - Reforming Economies (R9):
+      - FSU
+  - Middle East & Africa (R9):
+      - MENA
+      - SSA
+  - Latin America (R9):
+      - LATAM
+  - Other (R9):
+      - ROW
+
+  # R10 regions
+  - Africa (R10):
+      - MENA
+      - SSA
+  - China+ (R10):
+      - CHN
+  - Europe (R10):
+      - EUR
+  - India+ (R10):
+      - IND
+  - Latin America (R10):
+      - LATAM
+  - Middle East (R10):
+      - MENA
+  - North America (R10):
+      - USA
+      - CAN
+  - Pacific OECD (R10):
+      - JPN
+      - OCE
+  - Reforming Economies (R10):
+      - FSU
+  - Rest of Asia (R10):
+      - ASEAN
+  - Other (R10):
+      - ROW
