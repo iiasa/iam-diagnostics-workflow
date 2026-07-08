@@ -65,12 +65,12 @@
             South Georgia and the South Sandwich Islands, Suriname, Chile, Colombia,
             Dominican Republic, Ecuador, El Salvador, Paraguay, Uruguay, Costa Rica,
             Panama, Belize, Trinidad and Tobago, Anguilla, Antigua and Barbuda, Aruba,
-            Bahamas, Barbados, Bonaire, Sint Eustatius and Saba,
+            Bahamas, Barbados, "Bonaire, Sint Eustatius and Saba",
             British Virgin Islands, Cayman Islands, Cuba, Curaçao, Dominica, Grenada,
             Montserrat, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia,
-            Saint Martin (French Part), Saint Vincent and the Grenadines, Sint Maarten (Dutch part),
+            Saint Martin (French part), Saint Vincent and the Grenadines, Sint Maarten (Dutch part),
             Turks and Caicos Islands, United States Virgin Islands, Jamaica, Puerto Rico,
-            Venezuela (Bolivarian Republic of), Haiti]
+            Venezuela, Haiti]
   - WEGDYN 2.0|Asia:
       countries: [China, India, Hong Kong, Special Administrative Region of China,
             Singapore, Korea, Republic of, Japan, Bangladesh, Thailand, Indonesia,
@@ -79,7 +79,7 @@
             China, Macao Special Administrative Region,
             Democratic People's Republic of Korea, American Samoa, Cook Islands,
             Fiji, French Polynesia, Guam, Kiribati, Marshall Islands,
-            Micronesia (Federated States of), Nauru, New Caledonia, Niue,
+            Micronesia, Nauru, New Caledonia, Niue,
             Northern Mariana Islands, Palau, Papua New Guinea, Pitcairn, Samoa,
             Solomon Islands, Tokelau, Tonga, Tuvalu,
             United States Minor Outlying Islands, Vanuatu, Wallis and Futuna Islands,
