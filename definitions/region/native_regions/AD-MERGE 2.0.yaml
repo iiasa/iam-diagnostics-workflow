@@ -54,7 +54,7 @@
           Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, Vanuatu, Wallis and Futuna
         ]
 
-    - AD-MERGE 2.0|Other Central and South America:
+    - AD-MERGE 2.0|Central and South America:
         countries: [
           Argentina, Bolivia, Chile, Colombia, Ecuador, Falkland Islands (Malvinas),
           Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela, Belize, Costa Rica,
@@ -68,7 +68,7 @@
           Trinidad and Tobago, Turks and Caicos Islands, United States Virgin Islands
         ]
 
-    - AD-MERGE 2.0|Other Euroasia:
+    - AD-MERGE 2.0|Other Eurasia:
         countries: [
           Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria,
           Cyprus, Georgia, Kazakhstan, Kyrgyzstan, Kosovo, Latvia, Lithuania,

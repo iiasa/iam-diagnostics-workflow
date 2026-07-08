@@ -2,11 +2,11 @@ model:
   - AD-MERGE 2.0
 
 native_regions:
-  - USA: AD-MERGE 2.0|United States
+  - USA: AD-MERGE 2.0|United States of America
   - CAN: AD-MERGE 2.0|Canada
   - MEX: AD-MERGE 2.0|Mexico
   - BRA: AD-MERGE 2.0|Brazil
-  - CLA: AD-MERGE 2.0|Central and Latin America
+  - CLA: AD-MERGE 2.0|Central and South America
   - WEU: AD-MERGE 2.0|Western Europe
   - RUS: AD-MERGE 2.0|Russia
   - CHN: AD-MERGE 2.0|China
@@ -122,14 +122,10 @@ common_regions:
       - IND
   - Mexico:
       - MEX
-  - Russia:
-      - RUS
   - United States:
       - USA
   - Australia:
       - ANZ
-
-
   - European Union and United Kingdom:
       - WEU
   - African Union:
