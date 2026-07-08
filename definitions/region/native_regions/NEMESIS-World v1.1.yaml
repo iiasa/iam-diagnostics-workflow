@@ -52,7 +52,7 @@
         countries: [Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, 
             Comoros, Congo, "Côte d'Ivoire", Djibouti, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, 
             Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Morocco, Mozambique,
-            Namibia, Niger, Nigeria, "Réunion", Rwanda, Saint Helena, "Saint Helena, Ascension and Tristan da Cunha", Sao Tome and Principe, Senegal, 
+            Namibia, Niger, Nigeria, "Réunion", Rwanda, "Saint Helena, Ascension and Tristan da Cunha", Sao Tome and Principe, Senegal, 
             Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Democratic Republic of the Congo, Togo, 
             Tunisia, Uganda, Western Sahara, Zambia, Zimbabwe]
     - NEMESIS-World 1.1|WL:
