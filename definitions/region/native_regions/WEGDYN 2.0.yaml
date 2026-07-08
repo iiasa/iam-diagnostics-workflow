@@ -93,10 +93,11 @@
       countries: [Algeria, Egypt, Morocco, Tunisia, Libya, Western Sahara, Benin,
             Burkina Faso, Cameroon, Côte d'Ivoire, Ghana, Guinea, Mali, Niger,
             Nigeria, Senegal, Togo, Cabo Verde, Gambia, Guinea-Bissau, Liberia,
-            Mauritania, Saint Helena, Sierra Leone, Central African Republic,
+            Mauritania, "Saint Helena, Ascension and Tristan da Cunha", Sierra Leone,
+            Central African Republic,
             Chad, Congo, Democratic Republic of the Congo, Equatorial Guinea,
             Gabon, Comoros, Ethiopia, Kenya, Madagascar, Malawi, Mauritius,
-            Mozambique, Rwanda, Sudan, Tanzania, United Republic of, Uganda,
+            Mozambique, Rwanda, Sudan, Tanzania, Uganda,
             Zambia, Zimbabwe, Burundi, Djibouti, Eritrea, Mayotte, Seychelles,
             Somalia, South Sudan, Botswana, Eswatini, Namibia, South Africa,
             Lesotho, Angola, Sao Tome and Principe]
