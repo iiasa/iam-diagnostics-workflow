@@ -72,23 +72,23 @@
             Turks and Caicos Islands, United States Virgin Islands, Jamaica, Puerto Rico,
             Venezuela, Haiti]
   - WEGDYN 2.0|Asia:
-      countries: [China, India, Hong Kong, Special Administrative Region of China,
-            Singapore, Korea, Republic of, Japan, Bangladesh, Thailand, Indonesia,
-            Viet Nam, Pakistan, Afghanistan, Malaysia, Chinese Taipei, Philippines,
-            Cambodia, Lao PDR, Myanmar, Timor-Leste, Sri Lanka, Bhutan, Maldives,
-            China, Macao Special Administrative Region,
-            Democratic People's Republic of Korea, American Samoa, Cook Islands,
+      countries: [China, India, Hong Kong,
+            Singapore, South Korea, North Korea, Republic of, Japan, Bangladesh, Thailand, Indonesia,
+            Viet Nam, Pakistan, Afghanistan, Malaysia, Taiwan, Philippines,
+            Cambodia, Laos, Myanmar, Timor-Leste, Sri Lanka, Bhutan, Maldives,
+            China,
+            American Samoa, Cook Islands,
             Fiji, French Polynesia, Guam, Kiribati, Marshall Islands,
             Micronesia, Nauru, New Caledonia, Niue,
             Northern Mariana Islands, Palau, Papua New Guinea, Pitcairn, Samoa,
             Solomon Islands, Tokelau, Tonga, Tuvalu,
-            United States Minor Outlying Islands, Vanuatu, Wallis and Futuna Islands,
+            United States Minor Outlying Islands, Vanuatu, Wallis and Futuna,
             Nepal, Brunei Darussalam, Mongolia, Tajikistan, Uzbekistan, Iraq,
-            Lebanon, Palestinian Territory, Occupied, Syrian Arab Republic,
+            Lebanon, Palestine, Syria,
             Turkey, Israel, Saudi Arabia, United Arab Emirates, Yemen, Azerbaijan,
-            Iran, Islamic Republic of, Bahrain, Kuwait, Oman, Qatar, Jordan,
+            Iran, Bahrain, Kuwait, Oman, Qatar, Jordan,
             Russian Federation, Kazakhstan, Belarus, Ukraine, Armenia, Georgia,
-            Kyrgyzstan, Turkmenistan, Republic of Moldova]
+            Kyrgyzstan, Turkmenistan, Moldova]
   - WEGDYN 2.0|Africa:
       countries: [Algeria, Egypt, Morocco, Tunisia, Libya, Western Sahara, Benin,
             Burkina Faso, Cameroon, Côte d'Ivoire, Ghana, Guinea, Mali, Niger,
