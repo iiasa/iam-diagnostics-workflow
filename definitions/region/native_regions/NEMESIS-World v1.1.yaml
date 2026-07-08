@@ -56,13 +56,13 @@
             Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Democratic Republic of the Congo, Togo, 
             Tunisia, Uganda, Western Sahara, Zambia, Zimbabwe]
     - NEMESIS-World 1.1|WL:
-        countries: [Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, 
-            Sint Eustatius and Saba, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, 
+        countries: [Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, "Bonaire, Sint Eustatius and Saba", 
+            Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, 
             Ecuador, El Salvador, Falkland Islands (Malvinas), French Guiana, Greenland, Grenada, Guadeloupe, Guatemala, Guyana, 
             Haiti, Honduras, Jamaica, Martinique, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, 
             Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, 
             Sint Maarten (Dutch part), South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, 
-            Turks and Caicos Islands, Uruguay, Venezuela, "Virgin Islands, British", "Virgin Islands, U.S."]
+            Turks and Caicos Islands, Uruguay, Venezuela, British Virgin Islands, United States Virgin Islands]
     - NEMESIS-World 1.1|WM:
         countries: [Bahrain, Egypt, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, Palestine, Qatar, Saudi Arabia, Syria, 
             United Arab Emirates, Yemen]
