@@ -9,4 +9,5 @@
     description: Annual consumption loss in a policy scenario relative to a
       corresponding baseline scenario
     unit: billion USD_2010/yr
+    lower_bound: 0
     note: Consumption loss should be reported as a positive value
