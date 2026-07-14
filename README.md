@@ -12,7 +12,7 @@ This repository contains the workflow and configuration for the IAM Diagnostics.
 > [!TIP]
 > For *users not comfortable working with GitHub repositories and yaml files*,
 > the definitions for this project are available for download as an xlsx spreadsheet
-> at [https://files.ece.iiasa.ac.at/iam-diagnostics/iam-diagnostics-template.xlsx](https://files.ece.iiasa.ac.at/sparccle/sparccle-template.xlsx).
+> at [https://files.ece.iiasa.ac.at/iam-diagnostics/iam-diagnostics-template.xlsx](https://files.ece.iiasa.ac.at/iam-diagnostics/iam-diagnostics-template.xlsx).
 
 > [!IMPORTANT]
 > This workflow repository uses definitions and region mappings from the
