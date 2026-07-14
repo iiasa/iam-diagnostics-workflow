@@ -1,0 +1,11 @@
+- Policy Cost|Additional Total Energy System Cost:
+    description: Additional total energy system cost relative to a baseline
+    unit: billion USD_2010/yr
+- Policy Cost|Area under MAC Curve:
+    description: Total costs of mitigation policy computed as the area under the
+      Marginal Abatement Cost (MAC) curve
+    unit: billion USD_2010/yr
+- Policy Cost|Consumption Loss:
+    description: Consumption loss in a policy scenario relative to the corresponding baseline
+    unit: billion USD_2010/yr
+    note: Consumption loss should be reported as a positive value
