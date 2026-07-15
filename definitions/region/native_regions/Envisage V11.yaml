@@ -1,0 +1,100 @@
+# The model documentation and regional aggregation for Envisage V11.0 can be found at https://github.com/mensbrugghe/Env11/blob/main/Doc/Env11.pdf
+# The default aggregation (of the GTAP Data Base) is all of G20 plus remaining countries grouped geographically.
+# The mappings are based on Version 12 of the GTAP Data Base.
+# N.B. There are 19 countries in the G20--the 20th member is the European Union
+- Envisage V11:
+    - Envisage V11|Argentina:
+        countries: [Argentina]
+    - Envisage V11|Australia:
+        countries: [Australia, Christmas Island, Cocos (Keeling) Islands, Heard Island and McDonald Islands, Norfolk Island]
+    - Envisage V11|Brazil:
+        countries: [Brazil]
+    - Envisage V11|Canada:
+        countries: [Canada]
+    - Envisage V11|China: 
+        countries: [China]
+    - Envisage V11|Germany:
+        countries: [Germany]
+    - Envisage V11|France:
+        countries: [France]
+    - Envisage V11|Italy:
+        countries: [Italy]
+    - Envisage V11|India:
+        countries: [India]
+    - Envisage V11|Indonesia:
+        countries: [Indonesia]
+    - Envisage V11|Japan:
+        countries: [Japan]
+    - Envisage V11|Mexico:
+        countries: [Mexico]
+    - Envisage V11|Russian Federation:
+        countries: [Russian Federation]
+    - Envisage V11|Saudi Arabia:
+        countries: [Saudi Arabia]
+    - Envisage V11|South Africa:
+        countries: [South Africa]
+    - Envisage V11|South Korea:
+        countries: [South Korea]
+    - Envisage V11|Turkey:
+        countries: [Turkey]
+    - Envisage V11|United Kingdom:
+        countries: [United Kingdom]
+    - Envisage V11|United States:
+        countries: [United States]
+    - Envisage V11|Rest of East Asia:
+        countries: [
+          American Samoa, Brunei Darussalam, Cambodia, Cook Islands, Fiji, French Polynesia, Guam,
+          Kiribati, Laos, Macao, Malaysia, Marshall Islands, Micronesia, Mongolia, Myanmar, Nauru, 
+          New Caledonia, Niue, North Korea, Northern Mariana Islands, Palau, Papua New Guinea, Philippines, 
+          Pitcairn, Samoa, Solomon Islands, Thailand, Timor-Leste, Tokelau, Tonga, Tuvalu, 
+          United States Minor Outlying Islands, Vanuatu, Viet Nam, Wallis and Futuna    
+        ]
+    - Envisage V11|Rest of South Asia:
+        countries: [
+          Afghanistan, Bangladesh, Bhutan, Maldives, Nepal, Pakistan, Sri Lanka  
+        ]
+    - Envisage V11|Rest of Eastern and Central Europe:  
+        countries: [
+          Albania, Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova,
+          Serbia, Tajikistan, Ukraine, Uzbekistan  
+        ]
+    - Envisage V11|Rest of Middle East and North Africa:
+        countries: [
+          Algeria, Bahrain, Egypt, Iran, Iraq, Israel, Jordan, Kuwait, 
+          Lebanon, Libya, Morocco, Oman, Palestine, Qatar, Syria, 
+          Tunisia, United Arab Emirates, Yemen, Western Sahara
+        ]
+    - Envisage V11|Rest of Sub-Saharan Africa:
+        countries: [
+          Angola, Antarctica, Benin, Botswana, Bouvet Island, British Indian Ocean Territory, Burkina Faso, 
+          Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Côte d'Ivoire, 
+          Democratic Republic of the Congo, Djibouti, Equatorial Guinea, Eritrea, Eswatini, Ethiopia,
+          French Southern Territories, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, 
+          Liberia, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Mozambique, Namibia,
+          Niger, Nigeria, Réunion, Rwanda, "Saint Helena, Ascension and Tristan da Cunha", Sao Tome and Principe,
+          Senegal, Seychelles, Sierra Leone, Somalia, South Sudan, Sudan, Tanzania, Togo, Uganda, 
+          Zambia, Zimbabwe
+        ]
+    - Envisage V11|Rest of Latin America and Caribbean:   
+        countries: [
+            Anguilla, Antigua and Barbuda, Aruba, Bahamas, Barbados, Belize, Bolivia, "Bonaire, Sint Eustatius and Saba",
+            British Virgin Islands, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic,
+            Ecuador, El Salvador, Falkland Islands (Malvinas), French Guiana, Grenada, Guadeloupe, Guatemala, Guyana,
+            Haiti, Honduras, Jamaica, Martinique, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy,
+            Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Vincent and the Grenadines,
+            Sint Maarten (Dutch part), South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago,
+            Turks and Caicos Islands, United States Virgin Islands, Uruguay, Venezuela
+        ]
+    - Envisage V11|Rest of European Union:    
+        countries: [
+          Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, 
+          Estonia, Finland, Greece, Hungary, Ireland, Latvia, Lithuania, 
+          Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, 
+          Slovenia, Spain, Sweden
+        ]
+    - Envisage V11|Rest of High-Income Countries:   
+        countries: [
+            Bermuda, Faroe Islands, Gibraltar, Greenland, Guernsey, Hong Kong, Iceland, Isle of Man, Jersey,
+            Kosovo, Liechtenstein, Monaco, Montenegro, New Zealand, North Macedonia, Norway, Saint Pierre and Miquelon,
+            San Marino, Singapore, Svalbard and Jan Mayen, Switzerland, Taiwan, Vatican
+        ]
