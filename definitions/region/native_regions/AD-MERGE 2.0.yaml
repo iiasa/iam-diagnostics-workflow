@@ -47,14 +47,14 @@
         countries: [
           Afghanistan, Bangladesh, Bhutan, Myanmar, Brunei Darussalam, Cambodia,
           Hong Kong, Indonesia, Laos, Macao, Malaysia, Maldives,
-          Mongolia, Nepal, North Korea, Pakistan, Philippines, Papua New Guinea,
+          Mongolia, Nepal, North Korea, Pakistan, Philippines,
           Singapore, Sri Lanka, Timor-Leste, Thailand, Viet Nam, American Samoa,
           Cook Islands, Fiji, French Polynesia, Guam, Kiribati, Marshall Islands,
           Micronesia, Nauru, Niue, Northern Mariana Islands, Palau, Papua New Guinea,
           Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, Vanuatu, Wallis and Futuna
         ]
 
-    - AD-MERGE 2.0|Central and South America:
+    - AD-MERGE 2.0|Other Central and Latin America:
         countries: [
           Argentina, Bolivia, Chile, Colombia, Ecuador, Falkland Islands (Malvinas),
           Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela, Belize, Costa Rica,

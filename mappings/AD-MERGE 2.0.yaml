@@ -6,7 +6,7 @@ native_regions:
   - CAN: AD-MERGE 2.0|Canada
   - MEX: AD-MERGE 2.0|Mexico
   - BRA: AD-MERGE 2.0|Brazil
-  - CLA: AD-MERGE 2.0|Central and South America
+  - CLA: AD-MERGE 2.0|Other Central and Latin America
   - WEU: AD-MERGE 2.0|Western Europe
   - RUS: AD-MERGE 2.0|Russia
   - CHN: AD-MERGE 2.0|China
