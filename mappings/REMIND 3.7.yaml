@@ -192,3 +192,11 @@ common_regions:
       - EWN
   - European Union and United Kingdom:
       - EUR
+      - DEU
+      - FRA
+      - ECE
+      - ECS
+      - ENC
+      - ESC
+      - ESW
+      - EWN

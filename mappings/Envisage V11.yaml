@@ -169,6 +169,7 @@ common_regions:
   - Rest of Asia (R10):
       - IDN
       - XEA
+  - Other (R10):
       - XHY
 
   # mapping for G20 members

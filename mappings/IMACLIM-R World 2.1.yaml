@@ -1,4 +1,6 @@
-model: IMACLIM-R World 2.1
+model:
+- IMACLIM-R World 2.1
+
 native_regions:
 - AFR: IMACLIM-R World 2.1|Africa
 - BRA: IMACLIM-R World 2.1|Brazil

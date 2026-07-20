@@ -4,43 +4,43 @@
 # N.B. There are 19 countries in the G20--the 20th member is the European Union
 - Envisage V11:
     - Envisage V11|Argentina:
-        countries: [Argentina]
+        countries: Argentina
     - Envisage V11|Australia:
         countries: [Australia, Christmas Island, Cocos (Keeling) Islands, Heard Island and McDonald Islands, Norfolk Island]
     - Envisage V11|Brazil:
-        countries: [Brazil]
+        countries: Brazil
     - Envisage V11|Canada:
-        countries: [Canada]
+        countries: Canada
     - Envisage V11|China: 
-        countries: [China]
+        countries: China
     - Envisage V11|Germany:
-        countries: [Germany]
+        countries: Germany
     - Envisage V11|France:
-        countries: [France]
+        countries: France
     - Envisage V11|Italy:
-        countries: [Italy]
+        countries: Italy
     - Envisage V11|India:
-        countries: [India]
+        countries: India
     - Envisage V11|Indonesia:
-        countries: [Indonesia]
+        countries: Indonesia
     - Envisage V11|Japan:
-        countries: [Japan]
+        countries: Japan
     - Envisage V11|Mexico:
-        countries: [Mexico]
+        countries: Mexico
     - Envisage V11|Russian Federation:
-        countries: [Russian Federation]
+        countries: Russian Federation
     - Envisage V11|Saudi Arabia:
-        countries: [Saudi Arabia]
+        countries: Saudi Arabia
     - Envisage V11|South Africa:
-        countries: [South Africa]
+        countries: South Africa
     - Envisage V11|South Korea:
-        countries: [South Korea]
+        countries: South Korea
     - Envisage V11|Turkey:
-        countries: [Turkey]
+        countries: Turkey
     - Envisage V11|United Kingdom:
-        countries: [United Kingdom]
+        countries: United Kingdom
     - Envisage V11|United States:
-        countries: [United States]
+        countries: United States
     - Envisage V11|Rest of East Asia:
         countries: [
           American Samoa, Brunei Darussalam, Cambodia, Cook Islands, Fiji, French Polynesia, Guam,
