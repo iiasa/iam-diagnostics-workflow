@@ -1,4 +1,5 @@
-model: GCAM 9.1
+model:
+  - GCAM 9.1
 
 native_regions:
   - Africa_Eastern: GCAM 9.1|Africa_Eastern
