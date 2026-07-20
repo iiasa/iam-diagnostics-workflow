@@ -23,124 +23,124 @@ native_regions:
 
 common_regions:
   - World:
-      - USA	
-      - CAN	
-      - MEX	
-      - JPN	
-      - ANZ	
-      - EUR	
-      - ROE	
-      - RUS	
-      - ASI	
-      - CHN	
-      - IND	
-      - BRA	
-      - AFR	
-      - MES	
-      - LAM	
-      - REA	
-      - KOR	
-      - IDZ	
+    - USA	
+    - CAN	
+    - MEX	
+    - JPN	
+    - ANZ	
+    - EUR	
+    - ROE	
+    - RUS	
+    - ASI	
+    - CHN	
+    - IND	
+    - BRA	
+    - AFR	
+    - MES	
+    - LAM	
+    - REA	
+    - KOR	
+    - IDZ	
 
   # R5 regions
   - OECD & EU (R5):
-      - USA
-      - CAN
-      - EUR
-      - JPN
-      - ANZ
+    - USA
+    - CAN
+    - EUR
+    - JPN
+    - ANZ
   - Reforming Economies (R5):
-      - RUS
-      - ROE
+    - RUS
+    - ROE
   - Asia (R5):
-      - JPN
-      - ASI
-      - IND
-      - IDZ
-      - KOR
-      - REA
-      - CHN
+    - JPN
+    - ASI
+    - IND
+    - IDZ
+    - KOR
+    - REA
+    - CHN
   - Middle East & Africa (R5):
-      - MES
-      - AFR
+    - MES
+    - AFR
   - Latin America (R5):
-      - BRA
-      - LAM
+    - BRA
+    - LAM
 
   # R9 regions
   - European Union (R9):
-      - EUR
+    - EUR
 
   - USA (R9):
-      - USA
+    - USA
   - Other OECD (R9):
-      - CAN
-      - JPN
-      - ANZ
+    - CAN
+    - JPN
+    - ANZ
   - China (R9):
-      - CHN
+    - CHN
   - India (R9):
-      - IND
+    - IND
   - Other Asia (R9):
-      - ASI
-      - IDZ
-      - KOR
-      - REA
+    - ASI
+    - IDZ
+    - KOR
+    - REA
   - Reforming Economies (R9):
-      - RUS
-      - ROE
+    - RUS
+    - ROE
   - Latin America (R9):
-      - BRA
-      - MEX
-      - LAM
+    - BRA
+    - MEX
+    - LAM
   - Middle East & Africa (R9):
-      - MES
-      - AFR
+    - MES
+    - AFR
 
   # R10 regions
   - Africa (R10):
-      - AFR
+    - AFR
   - China+ (R10):
-      - CHN
-      - KOR
+    - CHN
+    - KOR
   - Europe (R10):
-      - EUR
-      - ROE
+    - EUR
+    - ROE
   - India+ (R10):
-      - IND
+    - IND
   - Latin America (R10):
-      - MEX
-      - LAM
-      - BRA
+    - MEX
+    - LAM
+    - BRA
   - Middle East (R10):
-      - MES
+    - MES
   - North America (R10):
-      - USA
-      - CAN
+    - USA
+    - CAN
   - Pacific OECD (R10):
-      - JPN
-      - ANZ
+    - JPN
+    - ANZ
   - Reforming Economies (R10):
-      - RUS
-      - ROE
+    - RUS
+    - ROE
   - Rest of Asia (R10):
-      - ASI
-      - REA
+    - ASI
+    - REA
 
   # mapping for G20 members
   - Brazil:
-      - BRA
+    - BRA
   - Canada:
-      - CAN
+    - CAN
   - China:
-      - CHN
+    - CHN
   - India:
-      - IND
+    - IND
   - Japan:
-      - JPN
+    - JPN
   - South Korea:
-      - KOR
+    - KOR
   - United States:
-      - USA
+    - USA
   - African Union:
-      - AFR
+    - AFR
