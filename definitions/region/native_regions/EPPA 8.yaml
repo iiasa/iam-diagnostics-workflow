@@ -17,8 +17,7 @@
           Austria, Belgium, Bulgaria, Switzerland, Cyprus, Czechia, Germany, Denmark, 
           Spain, Estonia, Finland, France, United Kingdom, Greece, Croatia, Hungary,
           Ireland, Italy, Lithuania, Luxembourg, Latvia, Malta, Netherlands, Norway,
-          Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, Iceland, Liechtenstein,
-          Switzerland
+          Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, Iceland, Liechtenstein
         ]
     - EPPA 8|Rest of Europe:
         countries: [
@@ -31,12 +30,12 @@
         countries: Russian Federation
     - EPPA 8|East Asia:
         countries: [
-          Brunei Darussalam, Cambodia, Laos, Macao, Malaysia, Mongolia,
+          Brunei Darussalam, Cambodia, Laos, Malaysia, Mongolia,
           Myanmar, Philippines, Singapore, Taiwan, Thailand, Viet Nam
         ]
     - EPPA 8|China:
         countries: [
-          China, Hong Kong
+          China, Hong Kong, Macao
         ]
     - EPPA 8|India:
         countries: India
@@ -72,14 +71,16 @@
         ]
     - EPPA 8|Rest of Asia:
         countries: [
-          Afghanistan, American Samoa, Aruba, Bangladesh, Bhutan, Brunei Darussalam,
-          Cambodia, Cook Islands, Fiji, French Polynesia, Kiribati,
-          Laos, Malaysia, Maldives, Marshall Islands, Micronesia, Mongolia,
-          Myanmar, Nauru, Nepal, Niue, North Korea, Northern Mariana Islands,
-          New Caledonia, Pakistan, Palau, Papua New Guinea, Pitcairn, Philippines,
-          Samoa, Singapore, Solomon Islands, Sri Lanka, Timor-Leste, Thailand,
-          Tokelau, Tonga, Tuvalu, Vanuatu, Viet Nam,
-          Macao, Taiwan, Wallis and Futuna
+          Afghanistan, American Samoa, Bangladesh, Bhutan,
+          Cook Islands, Fiji, French Polynesia, Kiribati,
+          Maldives, Marshall Islands, Micronesia,
+          Nauru, Nepal, Niue, North Korea,
+          Northern Mariana Islands, New Caledonia,
+          Pakistan, Palau, Papua New Guinea,
+          Pitcairn, Samoa, Solomon Islands,
+          Sri Lanka, Timor-Leste, Tokelau,
+          Tonga, Tuvalu, Vanuatu,
+          Wallis and Futuna
         ]
     - EPPA 8|Korea:
         countries: South Korea
