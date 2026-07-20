@@ -10,14 +10,14 @@
         countries: Japan
     - EPPA 8|Australia and New Zealand:
         countries: [
-          Australia, New zealand
+          Australia, New Zealand
         ]
     - EPPA 8|Europe:
         countries: [
           Austria, Belgium, Bulgaria, Switzerland, Cyprus, Czech Republic, Germany, Denmark, 
           Spain, Estonia, Finland, France, United Kingdom, Greece, Croatia, Hungary,
           Ireland, Italy, Lithuania, Luxembourg, Latvia, Malta, Netherlands, Norway,
-          Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, Rest of EFTA
+          Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, Iceland, Liechtenstein, Switzerland
         ]
     - EPPA 8|Rest of Europe:
         countries: [
