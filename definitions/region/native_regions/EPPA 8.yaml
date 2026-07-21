@@ -22,9 +22,9 @@
     - EPPA 8|Rest of Europe:
         countries: [
           Albania, Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Turkey,
-          Ukraine, Republic of Moldova, Andorra, Bosnia and Herzegovina, Faroe Islands, Gibraltar,
-          Guernsey, Holy See, Isle of Man, Jersey, Kosovo, Monaco, Montenegro, North Macedonia,
-          San Marino, Sark, Turkmenistan
+          Ukraine, Moldova, Andorra, Bosnia and Herzegovina, Faroe Islands, Gibraltar,
+          Guernsey, Vatican, Isle of Man, Jersey, Kosovo, Monaco, Montenegro, North Macedonia,
+          San Marino, Turkmenistan
         ]
     - EPPA 8|Russia:
         countries: Russian Federation
