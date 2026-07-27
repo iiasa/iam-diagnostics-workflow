@@ -1,4 +1,5 @@
 from pathlib import Path
+
 import pyam
 from nomenclature import DataStructureDefinition, RegionProcessor, process
 
