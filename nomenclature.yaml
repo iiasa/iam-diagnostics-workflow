@@ -23,6 +23,8 @@ definitions:
         - hierarchy: COFFEE 1.6
         - hierarchy: GEM-E3 V2026
         - hierarchy: GCAM 8.2
+        - hierarchy: GCAM 8.4
+        - hierarchy: GCAM 9.1
         - hierarchy: IMACLIM 2.0
         - hierarchy: OPEN-PROM 2.2
         - hierarchy: POLES 2.4
@@ -45,6 +47,9 @@ mappings:
       - COFFEE 1.6
       - GEM-E3 V2026
       - GCAM 8.2
+      - GCAM-CGS 8.4
+      - GCAM 9.1
+      - GCAM-CGS 9.1
       - IMACLIM 2.0
       - OPEN-PROM 2.2
       - POLES 2.4
