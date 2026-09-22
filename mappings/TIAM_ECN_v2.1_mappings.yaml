@@ -1,5 +1,5 @@
 model:
-  -TIAM-ECN 2.1
+  - TIAM-ECN 2.1
 
 native_regions:
   - ACE: TIAM-ECN 2.1|Central Africa
@@ -127,7 +127,7 @@ common_regions:
   
   
   # R9 regions
-  - OECD (R9):
+  - Other OECD (R9):
       - AUS
       - CAN
       - JPN
@@ -157,10 +157,7 @@ common_regions:
       - OLA
       - VEN
 
-  - Middle East (R9):
-      - MEA
-
-  - Africa (R9):
+  - Middle East & Africa (R9):
       - ACE
       - AEA
       - AGO
@@ -174,6 +171,7 @@ common_regions:
       - KEN
       - LBY
       - MAR
+      - MEA
       - MDG
       - NGA
       - TUN
@@ -199,14 +197,14 @@ common_regions:
       - TUN
       - ZAF
 
-  - China (R10):
+  - China+ (R10):
       - CHI
 
   - Europe (R10):
       - EEU
       - WEU
 
-  - India (R10):
+  - India+ (R10):
       - IND
 
   - Latin America (R10):
