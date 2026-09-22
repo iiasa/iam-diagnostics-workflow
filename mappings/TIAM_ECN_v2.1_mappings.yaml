@@ -39,6 +39,7 @@ native_regions:
   - WEU: TIAM-ECN 2.1|Western Europe
   - ZAF: TIAM-ECN 2.1|South Africa
 
+common_regions:
   - World:
       - ACE
       - AEA
