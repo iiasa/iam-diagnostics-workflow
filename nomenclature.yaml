@@ -32,6 +32,7 @@ definitions:
         - hierarchy: REMIND-MAgPIE 3.5-4.11
         - hierarchy: WITCH 6.0
         - hierarchy: C3IAM 3.0
+        - hierarchy: GEMINI 7.3
     country: true
 mappings:
   repository:
@@ -57,3 +58,4 @@ mappings:
       - REMIND-MAgPIE 3.5-4.11
       - WITCH 6.0
       - C3IAM 3.0
+      - GEMINI 7.3
