@@ -33,6 +33,7 @@ definitions:
         - hierarchy: WITCH 6.0
         - hierarchy: C3IAM 3.0
         - hierarchy: GEMINI 7.3
+        - hierarchy: TIAM-ECN 2.1
     country: true
 mappings:
   repository:
@@ -59,3 +60,4 @@ mappings:
       - WITCH 6.0
       - C3IAM 3.0
       - GEMINI 7.3
+      - TIAM-ECN 2.1
