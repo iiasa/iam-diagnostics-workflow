@@ -34,6 +34,7 @@ definitions:
         - hierarchy: C3IAM 3.0
         - hierarchy: GEMINI 7.3
         - hierarchy: TIAM-ECN 2.1
+        - hierarchy: GEM-E3 V2026-EU
     country: true
 mappings:
   repository:
@@ -61,3 +62,4 @@ mappings:
       - C3IAM 3.0
       - GEMINI 7.3
       - TIAM-ECN 2.1
+      - GEM-E3 V2026-EU
